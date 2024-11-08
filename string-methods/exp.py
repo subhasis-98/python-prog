@@ -1,0 +1,3 @@
+strr = "wwwwwwwwww"
+strr = '''wwwwwwlsdjbjhvhagjshvahsdskhvasjhsanb<Bxvnbm,cjsvhsdjgvsabkjshgsdhjsvc,msabcnmsvcmb,zxvnmbxvcnmvxhjcgvsmnbavmanscbmnXVcnbmx 
+cmnxvXcmnbxvcnmxvmnbzvxcmbxnbcvnzxvmnbcxzvmnbvnxzcvhkvcnmvxnmvznmxvmnxvbnxzvcmnbvnbvnmvcnvxzcnmvxcmnXZVmnxvcmnbvwwww'''

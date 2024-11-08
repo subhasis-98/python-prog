@@ -1,4 +1,4 @@
-name = "subhasis"
+name = "subhasism"
 
 # string index number
 print(name[0])
@@ -9,6 +9,7 @@ print(name[4])
 print(name[5])
 print(name[6])
 print(name[7])
+print(name[-1])
 
 # string slicing
 name = "subhasis,munu"
