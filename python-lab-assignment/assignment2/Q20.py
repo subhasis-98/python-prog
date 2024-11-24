@@ -1,0 +1,6 @@
+print( "a" + "\t" + "b" + "\t" + "pow(a+b)")
+print( str(1) + "\t" + str(2) + "\t" + str(pow(1,2)) )
+print( str(2) + "\t" + str(3) + "\t" + str(pow(2,3)) )
+print( str(3) + "\t" + str(4) + "\t" + str(pow(3,4)) )
+print( str(4) + "\t" + str(5) + "\t" + str(pow(4,5)) )
+print( str(5) + "\t" + str(6) + "\t" + str(pow(5,6)) )
