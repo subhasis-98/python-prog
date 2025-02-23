@@ -1,23 +1,20 @@
 # Input: Total amount of money
-total_amount = int(input("Enter the total amount: "))
+total  = int(input("Enter the total amount: "))
 
 # Calculate the number of 20 rupee notes
-notes_20 = total_amount // 20
-remaining_amount = total_amount % 20
+notes20 = total // 20
+rem = total%10
 
-# Calculate the number of 10 rupee notes
-notes_10 = remaining_amount // 10
-remaining_amount %= 10
+notes10 = rem //10
+rem %= 10
 
-# Calculate the number of 5 rupee notes
-notes_5 = remaining_amount // 5
-remaining_amount %= 5
+notes5 = rem//5
+rem %= 5
 
-# Calculate the number of 1 rupee notes
-notes_1 = remaining_amount
+notes1 = rem
 
-# Display the results
-print(f"20 rupee notes: {notes_20}")
-print(f"10 rupee notes: {notes_10}")
-print(f"5 rupee notes: {notes_5}")
-print(f"1 rupee notes: {notes_1}")
+# print()
+print(notes20)
+print(notes10)
+print(notes5)
+print(notes1)

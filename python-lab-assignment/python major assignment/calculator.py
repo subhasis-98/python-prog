@@ -1,13 +1,13 @@
-num1 = float(input("Enter first number : "))
-num2 = float(input("Enter second number : "))
-
 print("\npress 1 for addition")
 print("press 2 for subtraction")
 print("press 3 for multiplication")
 print("press 4 for division")
 print("press 5 for modulus ")
 
-op = int(input("\nInput which type of operation you want to perfrm : "))
+num1 = float(input("Enter first number : "))
+num2 = float(input("Enter second number : "))
+
+op = int(input("\nInput which type of operation you want to perform : "))
 
 match(op):
     case 1: 
